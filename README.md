@@ -15,7 +15,7 @@
 
 ## 项目简介
 
-WebStack-vue3 ，重构自https://github.com/Anjaxs/WebStack-vue（由于原项目已停止更新且本人无法运行，该项目也属于WebStack生态一员），是一个开箱即用的网址导航站点模板，适合设计师、开发者、产品经理等收集和管理常用网站。所有导航内容均通过配置文件（data.json）集中管理，支持分组、多级分类、图标、描述、多语言等。
+WebStack-vue3 ，重构自[WebStack-Vue](https://github.com/Anjaxs/WebStack-vue/tree/master)（由于原项目已停止更新且本人无法运行，该项目也属于WebStack生态一员），是一个开箱即用的网址导航站点模板，适合设计师、开发者、产品经理等收集和管理常用网站。所有导航内容均通过配置文件（data.json）集中管理，支持分组、多级分类、图标、描述、多语言等。
 
 ## 主要特性
 
@@ -139,7 +139,7 @@ MIT
 ## 鸣谢/参考
 
 - [WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io) 设计灵感来源
-- - [WebStack-Vue](https://github.com/Anjaxs/WebStack-vue/tree/master) 由于原项目已经停止更新，所以才有了本项目
+- [WebStack-Vue](https://github.com/Anjaxs/WebStack-vue/tree/master) 由于原项目已经停止更新，所以才有了本项目
 - [Viggoz](http://www.viggoz.com) 原作者
 - [Anjaxs](https://github.com/Anjaxs) vue版本原作者
 - 以及所有开源贡献者
