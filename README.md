@@ -139,7 +139,9 @@ MIT
 ## 鸣谢/参考
 
 - [WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io) 设计灵感来源
+- - [WebStack-Vue](https://github.com/Anjaxs/WebStack-vue/tree/master) 由于原项目已经停止更新，所以才有了本项目
 - [Viggoz](http://www.viggoz.com) 原作者
+- [Anjaxs](https://github.com/Anjaxs) vue版本原作者
 - 以及所有开源贡献者
 
 ## TODO
